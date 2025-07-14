@@ -1,7 +1,7 @@
 # 📘 Blog CMS – Full MERN Stack Application
 
 A clean, responsive Blog Content Management System (CMS) built using the MERN stack with markdown support, global state via React Context, and styled using TailwindCSS and daisyUI.
-
+<img width="1920" height="869" alt="Blog-CMS" src="https://github.com/user-attachments/assets/d8b76ea0-ae1b-487a-b797-a5b53e6c06d9" />
 ---
 
 ## 🚀 Features
@@ -29,6 +29,7 @@ mern-blog-cms-full-final/
 │   ├── models/      # Post.js
 │   └── routes/      # posts.js
 ```
+
 
 ---
 
